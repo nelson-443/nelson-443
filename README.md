@@ -1,4 +1,3 @@
-# Hello 👋🏾 
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,19 +8,21 @@
 <body>
 <h1>Nelson Cruz</h1>
 <h2>nelson-443@outlook.com 
-<h2>305-450-7438 </h2> 
-<h3>470 S Park Rd, Hollywood, Fl, 33021</h3>
 <h3>Summary of Qualifications</h3> 
 <ul>
-    <li>I am CompTIA A+ & Network+ certified, while currently working towards getting Azure certified and Web Development.</li>
-<h3>Professional Experience</h3>
+    <li>I have provided remote assistance through various tools, such as Kaseya VSA and TeamViewer.</li>
+    <li>I have a strong knowledge of operating systems (Windows, macOS, Linux) and the ability to explain technical concepts to non-technical users.</li>
+    <li>I’m up to date on cybersecurity protocols and best practices to assist with user security concerns.</li>
+    <li>Experience in troubleshooting issues with users over the phone or via email</li>
+    <li> I have a commitment to staying updated on the latest technology trends and certifications to enhance my skills and knowledge.</li>
+    <h3>Professional Experience</h3>
 <ul>
-    <li>Cyber Dental - Help Desk Support Technician  05/2020 to 8/2023</li>
-    <li>Provide tech support for Dental software such as Open Dental and Dentrix.</li>
+    <li>Providing support to end-users, guiding them through technical problems and offering solutions.</li>
     <li>Administer email administration through the Exchange Admin Center.</li>
+    <li>Prioritizing and managing support requests  with Autotask to ensure timely resolution.</li>
     <li>Administer email security with Mimecast.</li>
-    <li>Conduct Onboarding and Offboarding of users through the Microsoft 365 Admin Center and the Azure admin center.</li>	 	
-    <li>Installed and configured software applications, operating systems, and Antivirus software such as Sentinel One.</li>
+    <li>Installed and configured software applications, operating systems, and Antivirus software such as Sentinel One.</li>	 	
+    <li>Maintaining detailed records of resolved issues, including solutions and troubleshooting steps.</li>
     <li>Conducted regular data backups and disaster recovery planning to safeguard critical client data.</li>
 </ul>
 
@@ -43,8 +44,8 @@
 </ul>
 <h3>Software/ Applications:</h3>  
 <ul>
-    <li>Microsoft 365 / Kaseya VSA / Autotask / IT Glue / Mimecast</li>
-    <li>VMWare / Hyper-V / Splunk / Open Dental / VsCode</li>
+    <li>Kaseya VSA / Microsoft 365 / Autotask / IT Glue / Freshdesk / TeamViewer</li>
+    <li>Server Manager / Mimecast / Sentinel One / Hyper-V / VMware / Open Dental</li>
 </ul>
 </body>
 
